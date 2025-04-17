@@ -15,7 +15,8 @@
 ![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=flat&logo=suse&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
-### ☁️ Cloud
+### 🧑‍💼 Cloud Administration
+![Microsoft 365 Admin](https://img.shields.io/badge/Microsoft%20365-Admin-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 💻 Virtualization
