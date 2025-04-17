@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Don</h1>
 <p align="center">
   <em>An experienced IT professional with hands-on skills in server infrastructure, virtualization, monitoring, and cloud technologies.</em>
 </p>
@@ -46,4 +46,4 @@
 ## 📫 How to Reach Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DoninicToretto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ komsan-rakkamnerd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
