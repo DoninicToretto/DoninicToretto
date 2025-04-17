@@ -18,7 +18,6 @@
 ### ☁️ Cloud
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-
 ### 💻 Virtualization
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white)
 ![vCenter](https://img.shields.io/badge/vCenter-607078?style=flat&logo=vmware&logoColor=white)
