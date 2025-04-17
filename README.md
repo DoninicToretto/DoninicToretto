@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <p align="center">
-  <em>An experienced IT professional passionate about servers, virtualization, monitoring, and cloud technologies.</em>
+  <em>An experienced IT professional with hands-on skills in server infrastructure, virtualization, monitoring, and cloud technologies.</em>
 </p>
 
 ---
@@ -13,13 +13,14 @@
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=flat&logo=suse&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### ☁️ Cloud
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ### 💻 Virtualization
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white)
+![vCenter](https://img.shields.io/badge/vCenter-607078?style=flat&logo=vmware&logoColor=white)
 
 ### 🔄 Backup & Recovery
 ![PowerProtect](https://img.shields.io/badge/PowerProtect-007DB8?style=flat&logo=dell&logoColor=white)
@@ -36,13 +37,13 @@
 ## 📈 What I’m Working On
 
 - 🌩️ Expanding my cloud skills in **Microsoft Azure**
-- 🧪 กำลังเตรียมสอบ **AZ-900**
+- 🧪 Preparing for the **AZ-900** certification exam
 - 📘 Studying for **AZ-104** and **AZ-305** certifications
-- 🔐 Learning about **Cybersecurity** – Currently exploring **CompTIA Security+** and **CISSP**
+- 🔐 Learning more about **Cybersecurity** – currently focusing on **CompTIA Security+** and **CISSP**
 
 ---
 
 ## 📫 How to Reach Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DoninicToretto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ komsan-rakkamnerd)
