@@ -1,36 +1,48 @@
-## 👋 About Me
-
-Hi there! I'm an experienced IT professional with hands-on experience in implementing, managing, and supporting various enterprise infrastructure systems. I’m passionate about server management, virtualization, monitoring, and cloud technologies.
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<p align="center">
+  <em>An experienced IT professional passionate about servers, virtualization, monitoring, and cloud technologies.</em>
+</p>
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 ### 🖥️ Servers & Operating Systems
-- **Servers**: Dell, HPE
-- **Operating Systems**: CentOS, Ubuntu, SUSE, Microsoft Windows Server
+![Dell](https://img.shields.io/badge/Dell-007DB8?style=flat&logo=dell&logoColor=white)
+![HPE](https://img.shields.io/badge/HPE-00B388?style=flat&logo=hewlettpackardenterprise&logoColor=white)  
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![SUSE](https://img.shields.io/badge/SUSE-0C322C?style=flat&logo=suse&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### ☁️ Cloud
-- **Microsoft Azure**: VM, Networking, Identity, Monitoring, and Backup services
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ### 💻 Virtualization
-- **VMware**: ESXi, vCenter
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
 ### 🔄 Backup & Recovery
-- **Backup Tools**: Dell PowerProtect Data Manager, Recovery to VM
+![PowerProtect](https://img.shields.io/badge/PowerProtect-007DB8?style=flat&logo=dell&logoColor=white)
+![VM Recovery](https://img.shields.io/badge/VM--Recovery-0078D6?style=flat&logo=virtualbox&logoColor=white)
 
 ### 📊 Monitoring Tools
-- **Tools**: PRTG, Zabbix, Grafana, Uptime
+![PRTG](https://img.shields.io/badge/PRTG-0099CC?style=flat&logo=datadog&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Uptime Robot](https://img.shields.io/badge/Uptime-4ADE80?style=flat&logo=uptimerobot&logoColor=white)
 
 ---
 
 ## 📈 What I’m Working On
-- Expanding my cloud skills in Microsoft Azure
-- Learning infrastructure automation and Infrastructure as Code (IaC)
-- Studying for AZ-700 / AZ-900 certifications
+
+- 🌩️ Expanding my cloud skills in **Microsoft Azure**
+- 🧪 กำลังเตรียมสอบ **AZ-900**
+- 📘 Studying for **AZ-104** and **AZ-305** certifications
+- 🔐 Learning about **Cybersecurity** – Currently exploring **CompTIA Security+** and **CISSP**
 
 ---
 
 ## 📫 How to Reach Me
-- GitHub: [DoninicToretto]
-- LinkedIn: [http://www.linkedin.com/in/%20komsan-rakkamnerd]
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-url)
