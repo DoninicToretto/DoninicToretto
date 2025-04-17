@@ -16,7 +16,15 @@
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### ☁️ Cloud
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Icon](https://img.shields.io/badge/-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+
+
 
 ### 💻 Virtualization
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=flat&logo=vmware&logoColor=white)
